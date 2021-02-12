@@ -1,0 +1,56 @@
+.recipe {
+  background-color: #f1faff;
+  padding: 0px 20px;
+  width: 350px;
+  margin: 15px 15px;
+  border-radius: 20px;
+}
+
+.recipe h1 {
+  color: #3f4756;
+  border-bottom: 1px solid #a3abbd;
+  margin: 0 auto;
+  margin-right: 10px;
+  font-size: 30px;
+}
+
+.recipe h2 {
+  color: #3f4756;
+  margin: 0;
+}
+
+.title {
+  padding: 5px 10px;
+}
+
+.recipe-ingredients,
+.calories-container {
+  background-color: #e6f4f1;
+  margin: auto;
+  border-radius: 10px;
+  padding: 3px 10px;
+  margin-top: 15px;
+}
+
+.calories-container {
+  display: flex;
+  align-items: center;
+  height: 35px;
+}
+
+.calories-container p {
+  margin-bottom: 12px;
+  margin-left: 5px;
+}
+
+.image-container {
+  width: 150px;
+  height: 150px;
+  margin: 15px auto;
+}
+
+.recipe-image {
+  border-radius: 20%;
+  width: 100%;
+  height: 100%;
+}
